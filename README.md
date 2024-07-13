@@ -9,7 +9,7 @@ Open-Source Intelligence (OSINT) is defined as intelligence produced by collecti
 # ChangeLog from V1
 [CHANGELOG.TXT](https://github.com/505LabCenter/GoogleOSINTV2/blob/main/CHANGELOG.txt)
 
-# v1 (Base)
+# V1 (Base)
 [V1 BASE](https://github.com/505LabCenter/GoogleOsint)
 
 # Requirements 
@@ -17,7 +17,7 @@ Python Version : 3.11
 
 # Usage 
 ```bash
-git clone https://github.com/505LabCenter/GoogleOsint
+git clone https://github.com/505LabCenter/GoogleOSINTV2
 cd GoogleOsint
 python3 GoogleOsint.py
 ```
